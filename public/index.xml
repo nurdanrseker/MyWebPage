@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nurdan R. Seker</title>
-    <link>https://example.org/</link>
+    <link>https://nurdanrseker.github.io/MyWebPage/</link>
     <description>Recent content on Nurdan R. Seker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nurdanrseker.github.io/MyWebPage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction &amp; Motivation</title>
-      <link>https://example.org/ivar-project/introduction/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/introduction/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/introduction/</guid>
       <description>&lt;p&gt;This project was developed as part of the Interaction in Virtual and Augmented Reality (2024/2025) course. The main objective of the course was to explore and implement one of the known locomotion techniques in an immersive virtual environment using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Traditional VR applications often struggle with natural movement, especially when it comes to large virtual spaces. Inspired by horseback riding as a natural and intuitive locomotion method, I aimed to design a virtual experience that simulates horse riding in VR.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Problem Statement</title>
-      <link>https://example.org/ivar-project/problem_statement/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/problem_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/problem_statement/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/problem_statement/</guid>
       <description>&lt;p&gt;Locomotion in Virtual Reality (VR) remains a major challenge in immersive system design. Many VR experiences rely on teleportation or joystick-based navigation — methods that often break immersion, lack realism, and can induce motion sickness. These techniques also reduce physical engagement and create a disconnect between player input and perceived movement.&lt;/p&gt;&#xA;&lt;p&gt;The core motivation of this project was to explore a more &lt;strong&gt;natural and physically intuitive locomotion method&lt;/strong&gt;, inspired by a real-world activity: &lt;strong&gt;horse riding&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Solution</title>
-      <link>https://example.org/ivar-project/solution/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/solution/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/solution/</guid>
       <description>&lt;p&gt;To tackle the issues of unnatural and disorienting locomotion in VR, I designed a &lt;strong&gt;horse riding simulation system&lt;/strong&gt; that uses hand gestures and rhythm-based control for movement.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-concepts&#34;&gt;Early Concepts&lt;/h3&gt;&#xA;&lt;p&gt;The initial idea was to mimic &lt;strong&gt;rein-based control&lt;/strong&gt;, similar to how riders guide a real horse.&lt;br&gt;&#xA;The goal was to allow users to control &lt;strong&gt;direction and speed&lt;/strong&gt; using intuitive hand gestures, captured by Meta Quest 2 controllers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;move-forward&#34;&gt;Move Forward&lt;/h4&gt;&#xA;&lt;p&gt;Hold both grip buttons and move hands rhythmically up and down to simulate the rhythm of riding.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Implementation Details</title>
-      <link>https://example.org/ivar-project/implementation/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/implementation/</guid>
-      <description>&lt;h2 id=&#34;system-setup-and-architecture&#34;&gt;System Setup and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The project was developed using &lt;strong&gt;Unity&lt;/strong&gt; with the &lt;strong&gt;Meta XR All-In-One SDK&lt;/strong&gt;, &lt;strong&gt;XR Interaction Toolkit&lt;/strong&gt;, and &lt;strong&gt;XR Plugin Management&lt;/strong&gt; system.&lt;/p&gt;&#xA;&lt;p&gt;A critical design decision was to position the &lt;code&gt;OVRCameraRig&lt;/code&gt; on top of a stylized horse prefab’s saddle. This allowed the camera to follow the horse&amp;rsquo;s motion naturally and gave the player a true first-person horse-riding experience.&#xA;&lt;img src=&#34;https://example.org/images/horse.png&#34; alt=&#34;OVRCameraRig&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;horse-asset-integration&#34;&gt;Horse Asset Integration&lt;/h2&gt;&#xA;&lt;p&gt;A stylized horse asset from the Unity Asset Store was selected for its visual clarity and animation compatibility.&lt;/p&gt;</description>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/implementation/</guid>
+      <description>&lt;h2 id=&#34;system-setup-and-architecture&#34;&gt;System Setup and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The project was developed using &lt;strong&gt;Unity&lt;/strong&gt; with the &lt;strong&gt;Meta XR All-In-One SDK&lt;/strong&gt;, &lt;strong&gt;XR Interaction Toolkit&lt;/strong&gt;, and &lt;strong&gt;XR Plugin Management&lt;/strong&gt; system.&lt;/p&gt;&#xA;&lt;p&gt;A critical design decision was to position the &lt;code&gt;OVRCameraRig&lt;/code&gt; on top of a stylized horse prefab’s saddle. This allowed the camera to follow the horse&amp;rsquo;s motion naturally and gave the player a true first-person horse-riding experience.&#xA;&lt;img src=&#34;https://nurdanrseker.github.io/MyWebPage/images/horse.png&#34; alt=&#34;OVRCameraRig&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;horse-asset-integration&#34;&gt;Horse Asset Integration&lt;/h2&gt;&#xA;&lt;p&gt;A stylized horse asset from the Unity Asset Store was selected for its visual clarity and animation compatibility.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evaluation</title>
-      <link>https://example.org/ivar-project/evaluation/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/evaluation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/evaluation/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/evaluation/</guid>
       <description>&lt;p&gt;To assess the effectiveness and usability of the VR Horse Riding system, I conducted a user study with 4 participants. After experiencing the game on Meta Quest 2, participants responded to a 12-question survey evaluating aspects such as comfort, immersion, controls, responsiveness, and overall enjoyment.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;quantitative-results&#34;&gt;Quantitative Results&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Question&lt;/th&gt;&#xA;          &lt;th&gt;Average (1–10)&lt;/th&gt;&#xA;          &lt;th&gt;Notable&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Motion sickness&lt;/td&gt;&#xA;          &lt;td&gt;6.0&lt;/td&gt;&#xA;          &lt;td&gt;Generally low discomfort&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Physical comfort&lt;/td&gt;&#xA;          &lt;td&gt;9.75&lt;/td&gt;&#xA;          &lt;td&gt;Very high&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Feeling of presence&lt;/td&gt;&#xA;          &lt;td&gt;9.0&lt;/td&gt;&#xA;          &lt;td&gt;Excellent immersion&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Realism of interaction&lt;/td&gt;&#xA;          &lt;td&gt;8.5&lt;/td&gt;&#xA;          &lt;td&gt;Realistic rein behavior&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Ease of control&lt;/td&gt;&#xA;          &lt;td&gt;8.75&lt;/td&gt;&#xA;          &lt;td&gt;Highly intuitive&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Responsiveness to input&lt;/td&gt;&#xA;          &lt;td&gt;7.5&lt;/td&gt;&#xA;          &lt;td&gt;Could be improved&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fun of collecting coins&lt;/td&gt;&#xA;          &lt;td&gt;8.5&lt;/td&gt;&#xA;          &lt;td&gt;Enjoyable&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Clarity of objectives&lt;/td&gt;&#xA;          &lt;td&gt;9.75&lt;/td&gt;&#xA;          &lt;td&gt;Very clear&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Challenge level&lt;/td&gt;&#xA;          &lt;td&gt;4.25&lt;/td&gt;&#xA;          &lt;td&gt;Could be more difficult&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Overall fun&lt;/td&gt;&#xA;          &lt;td&gt;9.25&lt;/td&gt;&#xA;          &lt;td&gt;Highly enjoyable&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Replayability&lt;/td&gt;&#xA;          &lt;td&gt;8.25&lt;/td&gt;&#xA;          &lt;td&gt;Strong potential&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Recommend to others&lt;/td&gt;&#xA;          &lt;td&gt;9.5&lt;/td&gt;&#xA;          &lt;td&gt;Very likely&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;key-takeaways&#34;&gt;Key Takeaways&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Comfort &amp;amp; Immersion:&lt;/strong&gt; Nearly all users rated physical comfort and immersion highly, indicating that the reins-based locomotion technique is both engaging and physically non-intrusive.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conclusion</title>
-      <link>https://example.org/ivar-project/conclusion/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/conclusion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/conclusion/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/conclusion/</guid>
       <description>&lt;p&gt;Based on technical implementation and user feedback, the VR Horse Riding project achieved its primary goal: exploring and implementing an alternative, physically intuitive locomotion method in Virtual Reality using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Overall, the project achieved its primary goals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Players were able to &lt;strong&gt;navigate using physical gestures&lt;/strong&gt; instead of thumbsticks or teleportation&lt;/li&gt;&#xA;&lt;li&gt;The interaction model was found to be &lt;strong&gt;intuitive and enjoyable&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immersion and comfort&lt;/strong&gt; levels were consistently high across participants&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;However, one factor emerged as particularly important during testing:&lt;br&gt;&#xA;&lt;strong&gt;Motion sickness is closely tied to visual focus and environmental awareness.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Implementation on Nurdan R. Seker</title>
-    <link>https://example.org/tags/implementation/</link>
+    <link>https://nurdanrseker.github.io/MyWebPage/tags/implementation/</link>
     <description>Recent content in Implementation on Nurdan R. Seker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nurdanrseker.github.io/MyWebPage/tags/implementation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementation Details</title>
-      <link>https://example.org/ivar-project/implementation/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/implementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/implementation/</guid>
-      <description>&lt;h2 id=&#34;system-setup-and-architecture&#34;&gt;System Setup and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The project was developed using &lt;strong&gt;Unity&lt;/strong&gt; with the &lt;strong&gt;Meta XR All-In-One SDK&lt;/strong&gt;, &lt;strong&gt;XR Interaction Toolkit&lt;/strong&gt;, and &lt;strong&gt;XR Plugin Management&lt;/strong&gt; system.&lt;/p&gt;&#xA;&lt;p&gt;A critical design decision was to position the &lt;code&gt;OVRCameraRig&lt;/code&gt; on top of a stylized horse prefab’s saddle. This allowed the camera to follow the horse&amp;rsquo;s motion naturally and gave the player a true first-person horse-riding experience.&#xA;&lt;img src=&#34;https://example.org/images/horse.png&#34; alt=&#34;OVRCameraRig&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;horse-asset-integration&#34;&gt;Horse Asset Integration&lt;/h2&gt;&#xA;&lt;p&gt;A stylized horse asset from the Unity Asset Store was selected for its visual clarity and animation compatibility.&lt;/p&gt;</description>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/implementation/</guid>
+      <description>&lt;h2 id=&#34;system-setup-and-architecture&#34;&gt;System Setup and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The project was developed using &lt;strong&gt;Unity&lt;/strong&gt; with the &lt;strong&gt;Meta XR All-In-One SDK&lt;/strong&gt;, &lt;strong&gt;XR Interaction Toolkit&lt;/strong&gt;, and &lt;strong&gt;XR Plugin Management&lt;/strong&gt; system.&lt;/p&gt;&#xA;&lt;p&gt;A critical design decision was to position the &lt;code&gt;OVRCameraRig&lt;/code&gt; on top of a stylized horse prefab’s saddle. This allowed the camera to follow the horse&amp;rsquo;s motion naturally and gave the player a true first-person horse-riding experience.&#xA;&lt;img src=&#34;https://nurdanrseker.github.io/MyWebPage/images/horse.png&#34; alt=&#34;OVRCameraRig&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;horse-asset-integration&#34;&gt;Horse Asset Integration&lt;/h2&gt;&#xA;&lt;p&gt;A stylized horse asset from the Unity Asset Store was selected for its visual clarity and animation compatibility.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

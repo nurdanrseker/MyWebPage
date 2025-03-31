@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vr on Nurdan R. Seker</title>
-    <link>https://example.org/tags/vr/</link>
+    <link>https://nurdanrseker.github.io/MyWebPage/tags/vr/</link>
     <description>Recent content in Vr on Nurdan R. Seker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nurdanrseker.github.io/MyWebPage/tags/vr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction &amp; Motivation</title>
-      <link>https://example.org/ivar-project/introduction/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/introduction/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/introduction/</guid>
       <description>&lt;p&gt;This project was developed as part of the Interaction in Virtual and Augmented Reality (2024/2025) course. The main objective of the course was to explore and implement one of the known locomotion techniques in an immersive virtual environment using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Traditional VR applications often struggle with natural movement, especially when it comes to large virtual spaces. Inspired by horseback riding as a natural and intuitive locomotion method, I aimed to design a virtual experience that simulates horse riding in VR.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Problem Statement</title>
-      <link>https://example.org/ivar-project/problem_statement/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/problem_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/problem_statement/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/problem_statement/</guid>
       <description>&lt;p&gt;Locomotion in Virtual Reality (VR) remains a major challenge in immersive system design. Many VR experiences rely on teleportation or joystick-based navigation — methods that often break immersion, lack realism, and can induce motion sickness. These techniques also reduce physical engagement and create a disconnect between player input and perceived movement.&lt;/p&gt;&#xA;&lt;p&gt;The core motivation of this project was to explore a more &lt;strong&gt;natural and physically intuitive locomotion method&lt;/strong&gt;, inspired by a real-world activity: &lt;strong&gt;horse riding&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Solution</title>
-      <link>https://example.org/ivar-project/solution/</link>
+      <link>https://nurdanrseker.github.io/MyWebPage/ivar-project/solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/ivar-project/solution/</guid>
+      <guid>https://nurdanrseker.github.io/MyWebPage/ivar-project/solution/</guid>
       <description>&lt;p&gt;To tackle the issues of unnatural and disorienting locomotion in VR, I designed a &lt;strong&gt;horse riding simulation system&lt;/strong&gt; that uses hand gestures and rhythm-based control for movement.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-concepts&#34;&gt;Early Concepts&lt;/h3&gt;&#xA;&lt;p&gt;The initial idea was to mimic &lt;strong&gt;rein-based control&lt;/strong&gt;, similar to how riders guide a real horse.&lt;br&gt;&#xA;The goal was to allow users to control &lt;strong&gt;direction and speed&lt;/strong&gt; using intuitive hand gestures, captured by Meta Quest 2 controllers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;move-forward&#34;&gt;Move Forward&lt;/h4&gt;&#xA;&lt;p&gt;Hold both grip buttons and move hands rhythmically up and down to simulate the rhythm of riding.&lt;/p&gt;</description>
     </item>
   </channel>
