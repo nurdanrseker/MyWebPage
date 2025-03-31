@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Nurdan R. Seker</title>
+    <link>http://localhost:1313/tags/design/</link>
+    <description>Recent content in Design on Nurdan R. Seker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solution</title>
+      <link>http://localhost:1313/ivar-project/solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ivar-project/solution/</guid>
+      <description>&lt;p&gt;To tackle the issues of unnatural and disorienting locomotion in VR, I designed a &lt;strong&gt;horse riding simulation system&lt;/strong&gt; that uses hand gestures and rhythm-based control for movement.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-concepts&#34;&gt;Early Concepts&lt;/h3&gt;&#xA;&lt;p&gt;The initial idea was to mimic &lt;strong&gt;rein-based control&lt;/strong&gt;, similar to how riders guide a real horse.&lt;br&gt;&#xA;The goal was to allow users to control &lt;strong&gt;direction and speed&lt;/strong&gt; using intuitive hand gestures, captured by Meta Quest 2 controllers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;move-forward&#34;&gt;Move Forward&lt;/h4&gt;&#xA;&lt;p&gt;Hold both grip buttons and move hands rhythmically up and down to simulate the rhythm of riding.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

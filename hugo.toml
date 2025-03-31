@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Nurdan R. Seker'
+theme = 'digitalgarden'
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Content'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'IVRAR Project'
+  url = 'ivar-project'
+  weight = 3 
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/nurdanrseker'
+  weight = 1
+[[menu.social]]
+  name = 'LinkedIn'
+  url = 'linkedin.com/in/nurdanseker'
+  weight = 2
+  title = "Personal Digital Garden"
+[Params]
+  description = "My Digital Garden on the Internet"
+  images = ['/images/profile.jpg']
+  enableSearch = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

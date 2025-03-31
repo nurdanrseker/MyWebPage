@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivar on Nurdan R. Seker</title>
+    <link>http://localhost:1313/tags/ivar/</link>
+    <description>Recent content in Ivar on Nurdan R. Seker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ivar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IVRAR Projesi Tanıtımı</title>
+      <link>http://localhost:1313/ivar-project/introduction/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ivar-project/introduction/</guid>
+      <description>&lt;p&gt;Bu sayfada IVAR projemi anlatıyorum&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ivar-preview.png&#34; alt=&#34;Proje Görseli&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

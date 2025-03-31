@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quest2 on Nurdan R. Seker</title>
+    <link>http://localhost:1313/tags/quest2/</link>
+    <description>Recent content in Quest2 on Nurdan R. Seker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/quest2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction &amp; Motivation</title>
+      <link>http://localhost:1313/ivar-project/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ivar-project/introduction/</guid>
+      <description>&lt;p&gt;This project was developed as part of the Interaction in Virtual and Augmented Reality (2024/2025) course. The main objective of the course was to explore and implement one of the known locomotion techniques in an immersive virtual environment using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Traditional VR applications often struggle with natural movement, especially when it comes to large virtual spaces. Inspired by horseback riding as a natural and intuitive locomotion method, I aimed to design a virtual experience that simulates horse riding in VR.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implementation Details</title>
+      <link>http://localhost:1313/ivar-project/implementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ivar-project/implementation/</guid>
+      <description>&lt;h2 id=&#34;system-setup-and-architecture&#34;&gt;System Setup and Architecture&lt;/h2&gt;&#xA;&lt;p&gt;The project was developed using &lt;strong&gt;Unity&lt;/strong&gt; with the &lt;strong&gt;Meta XR All-In-One SDK&lt;/strong&gt;, &lt;strong&gt;XR Interaction Toolkit&lt;/strong&gt;, and &lt;strong&gt;XR Plugin Management&lt;/strong&gt; system.&lt;/p&gt;&#xA;&lt;p&gt;A critical design decision was to position the &lt;code&gt;OVRCameraRig&lt;/code&gt; on top of a stylized horse prefab’s saddle. This allowed the camera to follow the horse&amp;rsquo;s motion naturally and gave the player a true first-person horse-riding experience.&#xA;&lt;img src=&#34;http://localhost:1313/images/horse.png&#34; alt=&#34;OVRCameraRig&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;horse-asset-integration&#34;&gt;Horse Asset Integration&lt;/h2&gt;&#xA;&lt;p&gt;A stylized horse asset from the Unity Asset Store was selected for its visual clarity and animation compatibility.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final on Nurdan R. Seker</title>
+    <link>http://localhost:1313/tags/final/</link>
+    <description>Recent content in Final on Nurdan R. Seker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/final/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conclusion</title>
+      <link>http://localhost:1313/ivar-project/conclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ivar-project/conclusion/</guid>
+      <description>&lt;p&gt;Based on technical implementation and user feedback, the VR Horse Riding project achieved its primary goal: exploring and implementing an alternative, physically intuitive locomotion method in Virtual Reality using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Overall, the project achieved its primary goals:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Players were able to &lt;strong&gt;navigate using physical gestures&lt;/strong&gt; instead of thumbsticks or teleportation&lt;/li&gt;&#xA;&lt;li&gt;The interaction model was found to be &lt;strong&gt;intuitive and enjoyable&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Immersion and comfort&lt;/strong&gt; levels were consistently high across participants&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;However, one factor emerged as particularly important during testing:&lt;br&gt;&#xA;&lt;strong&gt;Motion sickness is closely tied to visual focus and environmental awareness.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
