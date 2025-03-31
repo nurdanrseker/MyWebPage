@@ -2,6 +2,7 @@ baseURL = 'https://nurdanrseker.github.io/MyWebPage/'
 languageCode = 'en-us'
 title = 'Nurdan R. Seker'
 theme = 'digitalgarden'
+canonifyURLs = true
 [menu]
 [[menu.main]]
   name = 'Home'

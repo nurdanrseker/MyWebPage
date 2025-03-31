@@ -3,7 +3,7 @@ title: "Solution"
 description: "Exploring the design process, iterations, and final outcome of the VR Horse Riding project."
 draft: false
 tags: ["vr", "solution", "design"]
-images: ["images/parkour.png"]
+images: ["/images/parkour.png"]
 weight: 3
 ---
 
