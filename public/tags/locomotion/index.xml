@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locomotion on Nurdan R. Seker</title>
-    <link>http://localhost:1313/tags/locomotion/</link>
+    <link>https://example.org/tags/locomotion/</link>
     <description>Recent content in Locomotion on Nurdan R. Seker</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/locomotion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/locomotion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction &amp; Motivation</title>
-      <link>http://localhost:1313/ivar-project/introduction/</link>
+      <link>https://example.org/ivar-project/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ivar-project/introduction/</guid>
+      <guid>https://example.org/ivar-project/introduction/</guid>
       <description>&lt;p&gt;This project was developed as part of the Interaction in Virtual and Augmented Reality (2024/2025) course. The main objective of the course was to explore and implement one of the known locomotion techniques in an immersive virtual environment using Meta Quest 2.&lt;/p&gt;&#xA;&lt;p&gt;Traditional VR applications often struggle with natural movement, especially when it comes to large virtual spaces. Inspired by horseback riding as a natural and intuitive locomotion method, I aimed to design a virtual experience that simulates horse riding in VR.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Problem Statement</title>
-      <link>http://localhost:1313/ivar-project/problem_statement/</link>
+      <link>https://example.org/ivar-project/problem_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ivar-project/problem_statement/</guid>
+      <guid>https://example.org/ivar-project/problem_statement/</guid>
       <description>&lt;p&gt;Locomotion in Virtual Reality (VR) remains a major challenge in immersive system design. Many VR experiences rely on teleportation or joystick-based navigation — methods that often break immersion, lack realism, and can induce motion sickness. These techniques also reduce physical engagement and create a disconnect between player input and perceived movement.&lt;/p&gt;&#xA;&lt;p&gt;The core motivation of this project was to explore a more &lt;strong&gt;natural and physically intuitive locomotion method&lt;/strong&gt;, inspired by a real-world activity: &lt;strong&gt;horse riding&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
